@@ -1,0 +1,39 @@
+.tt{ margin-left:150px; color:#333;}
+#navi{margin-right:5%; float:right; margin-top:-30px;}
+#navi li a:hover{color:#2ad2b0; font-weight:bold;}
+
+#comp{font-size:36px;}
+#comp:hover{ color:#2ad2b0;}
+#p{margin-top:20px; font-size:24px; color:#333; font-weight:500;}
+#small{color:#2ad2b0; font-variant:small-caps; width:70%;}
+#aha{ font-weight:bold; color:#333; font-size:36px;}
+#p1{font-size:16px; width:80%;}
+#p2{font-size:16px; width:70%;}
+#p3{font-size:16px; width:70%;}
+
+
+#w{width:400px;}
+#ab{font-size:24px; color:#2ad2b0; font-weight:bold;}
+#pic1{text-decoration:none;}
+#pic1 h5{ font-weight:bold; font-size:18px; color:#000;}
+#pic1 h5:hover{color:#2ad2b0;}
+#pic{text-decoration:none;}
+#pic1 h6{font-size:18px; color:#666;}
+#pic1 h6:hover{color:#2ad2b0;}
+#logo{background-color:#000; margin-top:-10px; margin-left:40px;}
+#logo img:hover{color:#2ad2b0;}
+#copy{color:#666;}
+#bt{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt:hover{background-color:#06F;}
+#bt2{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt2:hover{background-color:#0FF;}
+#bt3{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt3:hover{background-color:#F00;}
+#bt4{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt4:hover{background-color:#FF3;}
+#bt5{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt5:hover{background-color:#0C0;}
+#bt6{color:#FFF; width:40px; background-color:#FFF; height:40px;}
+#bt6:hover{background-color:#F0F;}
+
+
